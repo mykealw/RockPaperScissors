@@ -1,0 +1,15 @@
+C:\Users\mykea\source\week10\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.exe
+C:\Users\mykea\source\week10\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.deps.json
+C:\Users\mykea\source\week10\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.runtimeconfig.json
+C:\Users\mykea\source\week10\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.dll
+C:\Users\mykea\source\week10\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.pdb
+C:\Users\mykea\source\week10\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\mykea\source\week10\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mykea\source\week10\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\mykea\source\week10\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\mykea\source\week10\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\mykea\source\week10\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.dll
+C:\Users\mykea\source\week10\RockPaperScissors\obj\Debug\net6.0\refint\RockPaperScissors.dll
+C:\Users\mykea\source\week10\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.pdb
+C:\Users\mykea\source\week10\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.genruntimeconfig.cache
+C:\Users\mykea\source\week10\RockPaperScissors\obj\Debug\net6.0\ref\RockPaperScissors.dll
